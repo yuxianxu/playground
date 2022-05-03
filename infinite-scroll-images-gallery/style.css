@@ -1,0 +1,13 @@
+.container {
+    margin: 0 auto;
+    max-width: 75rem;
+    padding: 2rem;
+}
+
+.element-list {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
